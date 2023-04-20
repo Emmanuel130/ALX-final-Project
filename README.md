@@ -21,7 +21,7 @@
 
 Click here to see the [Live Demo](https://emmanuel130.github.io/ALX-final-Project/) of the website 
 
-![](./images/portfolio-project.png)
+
 
  ## Soe sandar Win
 
