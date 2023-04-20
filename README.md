@@ -19,7 +19,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click here to see the [Live Demo](https://soesandarwin2201.github.io/portfolio-website-soesandarwin2201.github.io/) of the website 
+Click here to see the [Live Demo](https://emmanuel130.github.io/ALX-final-Project/) of the website 
 
 ![](./images/portfolio-project.png)
 
